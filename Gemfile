@@ -64,5 +64,3 @@ group :test do
   gem "vcr"
   gem "mocha"
 end
-
-gem "mysql2", "~> 0.5.7"
